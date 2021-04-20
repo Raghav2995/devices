@@ -1,0 +1,39 @@
+{
+	"laurel_sprout": {
+		"manufacturer": "Xiaomi",
+		"name": "Mi A3",
+		"release": "2019/07",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 665",
+				"codename": "laurel_sprout"
+			},
+			"display": {
+				"height": 1560,
+				"width": 720,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					48,
+					8,
+					5
+				],
+				"Front": [
+					32
+				]
+			}
+		},
+		"projects": {
+			"Fluid OS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					11
+				]
+			}
+		}
+	}
+ }
+}
